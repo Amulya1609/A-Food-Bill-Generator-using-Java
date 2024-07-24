@@ -1,0 +1,1 @@
+Developed a Java code in Eclipse IDE, using object-oriented programming (OOP) principles which takes customer orders, calculates, and returns the total bill amount. Created classes for various food items, each with specific attributes such as name, price, and quantity. Utilized encapsulation, inheritance, and polymorphism to write the code.
